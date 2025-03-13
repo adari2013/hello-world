@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository
+# My name is Aryan Dua
+This is my first repository.
